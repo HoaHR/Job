@@ -9,15 +9,15 @@ Tuyển dụng vị trí: 2 Junior/Middle Backend Developer (NodeJS/Go)
 2.	Yêu cầu công việc, kỹ năng:
 - Có tinh thần trách nhiệm, sẵn sàng học hỏi công nghệ mới
 - Trên 1 năm kinh nghiệm về Backend:
-•	Thành thạo RESTful/GraphQL và Websocket
+ 	Thành thạo RESTful/GraphQL và Websocket
 
-•	Có kỹ năng sử dụng Message Brokers (Kafka/RabbitMQ), Redis/Memcached
+ 	Có kỹ năng sử dụng Message Brokers (Kafka/RabbitMQ), Redis/Memcached
 
-•	Có kiến thức nền tảng về hệ điều hành
+ 	Có kiến thức nền tảng về hệ điều hành
 
-•	Có kinh nghiệm xây dựng, triển khai hệ thống microservices
+ 	Có kinh nghiệm xây dựng, triển khai hệ thống microservices
 
-•	Thành thạo cơ sở dữ liệu: MongoDB, Arango(ORM/ODM)
+  Thành thạo cơ sở dữ liệu: MongoDB, Arango(ORM/ODM)
 - Có kinh nghiệm về Front-end là một lợi thế (VueJS/ ReactJS)
 - Có kinh nghiệm về ngôn ngữ lập trình: Nodejs/Golang
 - Ưu tiên: Có hiểu biết về blockchain, đọc hiểu tiếng anh tốt là một lợi thế

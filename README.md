@@ -24,17 +24,24 @@ Tuyển dụng vị trí: 2 Junior/Middle Backend Developer (NodeJS/Go)
 
 3.	Quyền lợi:
  	Mức lương: Thỏa thuận theo năng lực (Từ 10-25M)
+  
  	Hỗ trợ bữa trưa 40k/ngày, xăng xe đi lại.
+  
  	Lương tháng 13 + Thưởng lễ, Tết,…
+  
  	Môi trường làm việc trẻ trung , năng động, sáng tạo.
+  
  	Trà, Coffee luôn sẵn sàng cho ngày làm việc.
+  
  	Được đóng bảo hiểm theo quy định của pháp luật
+  
  	Thời gian thử việc: 1 tháng
+  
  	Tham gia các hoạt động teambuilding, nghỉ mát hàng năm...
 
- Thời gian làm việc: Từ 8h30-17h45 từ Thứ 2-7 ( Nghỉ bất kỳ 2 ngày/tháng)
+Thời gian làm việc: Từ 8h30-17h45 từ Thứ 2-7 ( Nghỉ bất kỳ 2 ngày/tháng)
 Địa chỉ: Tầng 4, Tòa Golden Land Building - 275 Nguyễn Trãi, Thanh Xuân, Hà Nội.
-      Thông tin liên hệ:
+Thông tin liên hệ:
 - Ib trực tiếp qua FB or qua SĐT: 0334 532 210
 - Mail: leuhoatb@gmail.com                                   
 - Skype: leuhoavc_1

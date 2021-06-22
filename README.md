@@ -23,21 +23,21 @@ Tuyển dụng vị trí: 2 Junior/Middle Backend Developer (NodeJS/Go)
 - Ưu tiên: Có hiểu biết về blockchain, đọc hiểu tiếng anh tốt là một lợi thế
 
 3.	Quyền lợi:
- 	Mức lương: Thỏa thuận theo năng lực (Từ 10-25M)
+ 	- Mức lương: Thỏa thuận theo năng lực (Từ 10-25M)
   
- 	Hỗ trợ bữa trưa 40k/ngày, xăng xe đi lại.
+ 	- Hỗ trợ bữa trưa 40k/ngày, xăng xe đi lại.
   
- 	Lương tháng 13 + Thưởng lễ, Tết,…
+ 	- Lương tháng 13 + Thưởng lễ, Tết,…
   
- 	Môi trường làm việc trẻ trung , năng động, sáng tạo.
+ 	- Môi trường làm việc trẻ trung , năng động, sáng tạo.
   
- 	Trà, Coffee luôn sẵn sàng cho ngày làm việc.
+ 	- Trà, Coffee luôn sẵn sàng cho ngày làm việc.
   
- 	Được đóng bảo hiểm theo quy định của pháp luật
+ 	- Được đóng bảo hiểm theo quy định của pháp luật
   
- 	Thời gian thử việc: 1 tháng
+ 	- Thời gian thử việc: 1 tháng
   
- 	Tham gia các hoạt động teambuilding, nghỉ mát hàng năm...
+ 	- Tham gia các hoạt động teambuilding, nghỉ mát hàng năm...
 
 Thời gian làm việc: Từ 8h30-17h45 từ Thứ 2-7 ( Nghỉ bất kỳ 2 ngày/tháng)
 Địa chỉ: Tầng 4, Tòa Golden Land Building - 275 Nguyễn Trãi, Thanh Xuân, Hà Nội.
